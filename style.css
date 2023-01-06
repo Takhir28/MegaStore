@@ -1,0 +1,189 @@
+body{
+	margin: 0 auto;
+	background: black;
+}
+.authorization{
+	width: 640px;
+	height: 264px;
+	padding: 40px 16px 48px 16px;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: 150px;
+	border-radius: 10px;
+	position: relative;
+}
+.icons-1{
+	position: absolute;
+	right: 15px;
+	top: 15px;
+}
+.icons-1:hover{
+	border: 1px solid red;
+	background-color: red;
+	border-radius: 5px;
+}
+.authorization h1{
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: center;
+	color: #000000;
+}
+.authorization p{
+	font-family: 'Sora';
+    font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+}
+.btn{
+	width: 384px;
+	height: 48px;
+	display: block;
+	background: #232529;
+	border-radius: 10px;
+	margin: 0 auto;
+	margin-top: 35px;
+}
+.btn:hover{
+	background: #9747FF;
+	transition-duration: 2s;
+	border-color: #9747FF;
+	border-radius: 50px;
+}
+.btn a{
+	text-align: center;
+	font-family: 'Sora';
+	font-size: 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.btn a:hover{
+	color: white;
+	font-weight: bold;
+	font-size: 23px;
+	transition-duration: 0,5s;
+}
+.authorization input{
+	width: 608px;
+	height: 48px;
+}  
+.password{
+	text-align: center;
+}
+.password p{
+	color: #A9A9A9;
+}
+.code{
+	display: flex;
+	justify-content: center;
+}
+.code input{
+	width: 48px;
+	height: 48px;
+	font-family: 'Sofia Pro';
+	font-style: normal;
+	font-size: 24px;
+	line-height: 24px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	color: #141414;
+	background: #FFFFFF;
+	border: 0.5px solid #DADADA;
+	border-radius: 12px;
+	margin: 0 5px;
+}
+.questionnaire{
+	width: 580px;
+	background-color: white;
+	font-family: 'Sora';
+	margin: 100px auto;
+	padding: 20px 24px 40px 24px;
+	border-radius: 10px;
+	position: relative;
+}
+.questionnaire h2{
+	font-family: 'Sora';
+	font-size: 16px;
+}
+.questionnaire p{
+	font-size: 14px;
+}
+.questionnaire input{
+	height: 48px;
+	border-radius: 8px;
+	border: 1px solid #DADADA;
+	margin-right: 5px;
+	padding-left: 10px;
+	color: #DADADA;
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+}
+.info input{
+	width: 168px;
+}
+.info-card input{
+	margin-bottom: 20px;
+}
+.info-card-item{
+	width: 361px;
+}
+.date{
+	position: relative;
+}
+.icon-2{
+	position: absolute;
+    left: 168px;
+    top: 212px;
+}
+.icon-3{
+	position: absolute;
+	right: 45px;
+	bottom: 300px;
+}
+.vector{
+	position: absolute;
+	bottom: 237px;
+	right: 45px;
+}
+.income-date{
+	width: 665px;
+}
+.income-date input{
+	margin-bottom: 20px;
+}
+.income-organization{
+	width: 423px;
+}
+.income-standart{
+	width: 200px;
+	height: 48px;
+}
+.income-half{
+	width: 311px;
+}
+.income-full{
+	width: 645px;
+}
+.arrow-1{
+	position: absolute;
+    bottom: 236px;
+    left: 206px;
+}
+.arrow-2{
+	position: absolute;
+    bottom: 236px;
+    left: 425px;
+}
+.arrow-3{
+	position: absolute;
+    bottom: 162px;
+    right: 50px;
+}
+
+
